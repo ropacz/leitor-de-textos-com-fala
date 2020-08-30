@@ -10,7 +10,7 @@ Tablets e outros dispositivos podem ser ótimas ferramentas para pessoas autista
 Instalação:
 
 ```bash
-git clone https://github.com/ropacz/leitor-de-textos-com-fala
+git clone https://github.com/ropacz/leitor-de-textos-com-voz
 ```
 ---
 
